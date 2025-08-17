@@ -7,6 +7,24 @@
 	<img src="reports/transaction_trends.png" alt="Transaction Trends Chart" width="600"/>
 </p>
 
+<p align="center">
+	<img src="reports/top_accounts.png" alt="Top Accounts Chart" width="600"/>
+</p>
+
+---
+
+## 🏆 Real-Life Data Outcomes
+
+**Business Scenario:**
+This project now uses realistic business transaction data, including sales, refunds, and expenses across multiple accounts and currencies.
+
+**Key Visual Results:**
+- <b>Transaction Amounts by Source</b>: Bar chart showing total amounts per account
+- <b>Transaction Trends Over Time</b>: Line chart visualizing business activity and anomalies
+- <b>Top Accounts</b>: Bar chart highlighting the accounts with the highest transaction volumes
+
+---
+
 
 ## 📊 Full Project Description
 
